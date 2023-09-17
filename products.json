@@ -1,0 +1,61 @@
+[{
+    "name" :"Planter Stand",
+    "material":"iron",
+    "product_type":"plant stand",
+    "price":1500,
+    "weight":8
+},{
+    "name" :"Main Door Gate",
+    "material":"steel",
+    "product_type":"gate",
+    "price":80000,
+    "weight":80
+},{
+    "name" :"Full Size Gate",
+    "material":"iron",
+    "product_type":"gate",
+    "price":100000,
+    "weight":100
+},{
+    "name" :"Unique Multi-Shelf Planter Stands",
+    "material":"aluminium",
+    "product_type":"plant stand",
+    "price":800,
+    "weight":5
+},{
+    "name" :"Balustrada Fier Model",
+    "material":"steel",
+    "product_type":"railing",
+    "price":50000,
+    "weight":40
+},{
+    "name" :"Elegant Modern Handrail",
+    "material":"steel",
+    "product_type":"railing",
+    "price":65000,
+    "weight":50
+},{
+    "name" :"Roof Jaal",
+    "material":"iron",
+    "product_type":"jaal",
+    "price":30000,
+    "weight":45
+},{
+    "name" :"Indoor Window",
+    "material":"steel",
+    "product_type":"window",
+    "price":5000,
+    "weight":15
+},{
+    "name" :"Iron Rolling Shutter",
+    "material":"steel",
+    "product_type":"shop gate",
+    "price":25000,
+    "weight":35
+},{
+    "name" :"Large Window",
+    "material":"iron",
+    "product_type":"window",
+    "price":10000,
+    "weight":25
+}]
