@@ -1,61 +1,122 @@
 [{
-    "name" :"Planter Stand",
-    "material":"iron",
-    "product_type":"plant stand",
-    "price":1500,
-    "weight":8
+    "name" :"Slider Door",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G1.jpg"
 },{
     "name" :"Main Door Gate",
-    "material":"steel",
-    "product_type":"gate",
-    "price":80000,
-    "weight":80
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G2.jpg"
+
 },{
-    "name" :"Full Size Gate",
-    "material":"iron",
-    "product_type":"gate",
-    "price":100000,
-    "weight":100
+    "name" :"Side Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G3.jpg"
 },{
-    "name" :"Unique Multi-Shelf Planter Stands",
-    "material":"aluminium",
-    "product_type":"plant stand",
-    "price":800,
-    "weight":5
+    "name" :"King Style Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G4.jpg"
 },{
-    "name" :"Balustrada Fier Model",
-    "material":"steel",
-    "product_type":"railing",
-    "price":50000,
-    "weight":40
+    "name" :"Square Pipe Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G5.jpg"
 },{
-    "name" :"Elegant Modern Handrail",
-    "material":"steel",
-    "product_type":"railing",
-    "price":65000,
-    "weight":50
+    "name" :"Modern Design Gate",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G6.jpg"
 },{
-    "name" :"Roof Jaal",
-    "material":"iron",
-    "product_type":"jaal",
-    "price":30000,
-    "weight":45
+    "name" :"Colony Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G7.jpg"
 },{
-    "name" :"Indoor Window",
-    "material":"steel",
-    "product_type":"window",
-    "price":5000,
-    "weight":15
+    "name" :"Long Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G8.webp"
 },{
-    "name" :"Iron Rolling Shutter",
-    "material":"steel",
-    "product_type":"shop gate",
-    "price":25000,
-    "weight":35
+    "name" :"Short Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G9.jpg"
 },{
-    "name" :"Large Window",
-    "material":"iron",
-    "product_type":"window",
-    "price":10000,
-    "weight":25
+    "name" :"Deer Design Gate",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G10.jpg"
+},{
+    "name" :"Small Side Door",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G11.webp"
+},{
+    "name" :"Wooden Designer Gate",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G12.webp"
+},{
+    "name" :"Side Leave Door",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G13.jpg"
+},{
+    "name" :"Small Steel Door",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G14.jpg"
+},{
+    "name" :"Side Design Door",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G15.webp"
+},{
+    "name" :"Simple Modern Door",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G16.png"
+},{
+    "name" :"Side Flower Door",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G17.jpg"
+},{
+    "name" :"Steel Door",
+    "material":"Steel",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G18.png"
+},{
+    "name" :"Black Small Door",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G19.jpg"
+},{
+    "name" :"Big King Door",
+    "material":"Iron",
+    "product_type":"Gate",
+    "gate_type": "Double Door",
+    "image": "./image/G20.jpg"
 }]

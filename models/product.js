@@ -16,18 +16,14 @@ const productSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  price: {
-    type: Number,
-    required: true,
-  },
-  weight: {
-    type: Number,
+  gate_type: { type: String, required: true },
+  image: {
+    type: String,
     required: true,
   },
   skuID: {
-    $floor: {
-      $multiply: [{ $rand: {} }, 100],
-    },
+    type: Number,
+    default: () => Math.floor(Math.random() * 10000),
   },
 });
 
